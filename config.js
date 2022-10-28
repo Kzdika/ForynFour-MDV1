@@ -9,16 +9,16 @@ global.prems = []
 global.kontak = ['6288293499014']
 
 //  INFO BOT 
-global.naown = 'Kz'
+global.naown = 'kz'
 global.noown = '6288293499014'
 global.namebot = 'kzbotz'
 global.nobot = '6287776985031'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/rhandrqz'
+global.instagram = 'https://instagram.com/rhandrqz_'
 global.github = 'https://github.com/krizynofc'
 global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/rhandrqz_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = 'https://saweria.co/Kricom'
 
 // PAYMANT 
@@ -30,12 +30,12 @@ global.ovo = '-_-'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
-global.fotonya1 = 'https://telegra.ph/file/2d461fcccf26557c2df2b.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/5b4498265f3e8c9be8c75.jpg' //ini juga ganti 
-global.ppacc = 'https://telegra.ph/file/074ac061bc8409689d872.jpg'
-global.imgloc = 'https://telegra.ph/file/ea8fefb5debafc0031463.jpg'
+global.fotonya1 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ini juga ganti 
+global.ppacc = 'https://telegra.ph/file/a077271ff372545599dbc.jpg'
+global.imgloc = 'https://telegra.ph/file/e6355ade20840c96814ed.jpg'
 global.media = 'https://telegra.ph/file/f209153a54698c43032f7.jpg'
-global.ppm = 'https://telegra.ph/file/2d461fcccf26557c2df2b.jpg' // bagian atas all command
+global.ppm = 'https://telegra.ph/file/85f5dd4cfb4fdd9d65cbf.jpg'  // bagian atas all command
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
@@ -80,7 +80,6 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Nurutomo
 ┃⫹⫺ Ilmanhdyt
 ┃⫹⫺ Elyas
-┃⫹⫺ Kz
 ┃⫹⫺ Hyzer
 ┃⫹⫺ KrizynOfc
 ┃⫹⫺ Zivsan
@@ -106,7 +105,7 @@ global.salah = 'Salah ❌\n'
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'FORYN FOUR'
-global.author = 'By kz'
+global.author = 'By krizynOfc'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
