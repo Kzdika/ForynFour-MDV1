@@ -26,7 +26,7 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ
+FN: Kz
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 item1.TEL;waid=6288293499014:6288293499014@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
